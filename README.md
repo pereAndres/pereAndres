@@ -21,7 +21,7 @@ I've delivered **15+ projects** across industries like real-time crypto trading 
   <tr>
     <td align="center" width="50%">
       <a href="https://kirokuanimelist.vercel.app">
-        <img src="images/kiroku.jpeg" width="100%" alt="Kiroku screenshot"/>
+        <img src="images/kiroku.jpeg" width="100%" height="280" style="object-fit:cover;object-position:top;" alt="Kiroku screenshot"/>
       </a>
       <br/>
       <strong>Kiroku</strong> · Your anime log
@@ -30,7 +30,7 @@ I've delivered **15+ projects** across industries like real-time crypto trading 
     </td>
     <td align="center" width="50%">
       <a href="https://velaskaoru.vercel.app/">
-        <img src="images/kaoru.png" width="100%" alt="Kaoru screenshot"/>
+        <img src="images/kaoru.png" width="100%" height="280" style="object-fit:cover;object-position:top;" alt="Kaoru screenshot"/>
       </a>
       <br/>
       <strong>Kaoru</strong> · Handmade candles
