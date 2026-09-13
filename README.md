@@ -21,7 +21,7 @@ I've delivered **15+ projects** across industries like real-time crypto trading 
   <tr>
     <td align="center" width="50%">
       <a href="https://kirokuanimelist.vercel.app">
-        <img src="images/kiroku.png" width="100%" alt="Kiroku screenshot"/>
+        <img src="images/kiroku.jpeg" width="100%" alt="Kiroku screenshot"/>
       </a>
       <br/>
       <strong>Kiroku</strong> · Your anime log
