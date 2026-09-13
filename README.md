@@ -30,7 +30,7 @@ A boutique website for handmade artisan candles — catalog, custom orders, care
 ### moduo · Web design & development studio
 **[moduo.io](https://moduo.io/)**
 
-A digital studio building websites, online stores and custom apps for businesses. I'm one of the **co-founders**, working as a developer and designer.
+A digital studio building websites, online stores and custom apps for businesses. I'm one of the **co-founders**, working as a developer and seller.
 
 ## Experience
 
