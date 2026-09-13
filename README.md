@@ -1,6 +1,6 @@
 # Hey, I'm Pere 👋
 
-**Frontend Developer** specialized in **Angular** and **Ionic**, based in Valencia, Spain 🇪🇸
+**Frontend Developer** specialized in **Angular**, based in Valencia, Spain 🇪🇸
 
 I've delivered **15+ projects** across industries like real-time crypto trading and e-commerce. I take ownership of full-cycle development, mentor teammates, and care deeply about clean, maintainable, high-performance code.
 
