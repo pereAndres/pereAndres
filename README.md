@@ -27,6 +27,11 @@ A boutique website for handmade artisan candles — catalog, custom orders, care
 
 > **Sole developer & designer.**
 
+### moduo · Web design & development studio
+**[moduo.io](https://moduo.io/)**
+
+A digital studio building websites, online stores and custom apps for businesses. I'm one of the **co-founders**, working as a developer and designer.
+
 ## Experience
 
 - **DEXTOOLS** (Remote) — Frontend Developer · 2024 – Present
