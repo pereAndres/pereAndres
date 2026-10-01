@@ -49,6 +49,17 @@ I've delivered **15+ projects** across industries like real-time crypto trading 
       <sub>Co-founder · developer & seller</sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%" colspan="2">
+      <a href="https://github.com/pereAndres/jarvis">
+        <img src="images/jarvis.png" width="100%" alt="Jarvis screenshot"/>
+      </a>
+      <br/>
+      <strong>Jarvis</strong> · Private personal assistant for iPhone
+      <br/>
+      <sub>SwiftUI · iOS 26 · Gemini · Google integrations</sub>
+    </td>
+  </tr>
 </table>
 
 ## Experience
