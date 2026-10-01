@@ -52,7 +52,7 @@ I've delivered **15+ projects** across industries like real-time crypto trading 
   <tr>
     <td align="center" width="50%" colspan="2">
       <a href="https://github.com/pereAndres/jarvis">
-        <img src="images/jarvis.png" width="100%" height="280" style="object-fit:cover;object-position:top;" alt="Jarvis screenshot"/>
+        <img src="images/jarvis.png" height="280" alt="Jarvis screenshot"/>
       </a>
       <br/>
       <strong>Jarvis</strong> · Private personal assistant for iPhone
